@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Rgb, slides e um background que mudar de cor. Apenas isso. <a href="https://rgb.luizdemoraes.dev" rel="noopener noreferrer" target="_blank">Veja aqui</a>.
+  Rgb, slides e um background que muda de cor. Apenas isso. <a href="https://rgb.luizdemoraes.dev" rel="noopener noreferrer" target="_blank">Veja aqui</a>.
 </p>
 
 ---
